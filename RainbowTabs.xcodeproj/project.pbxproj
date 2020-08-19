@@ -9,12 +9,17 @@
 /* Begin PBXBuildFile section */
 		2A9444E424EBB12B0079D734 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A9444E324EBB12B0079D734 /* AppDelegate.swift */; };
 		2A9444E624EBB12B0079D734 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A9444E524EBB12B0079D734 /* SceneDelegate.swift */; };
-		2A9444E824EBB12B0079D734 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A9444E724EBB12B0079D734 /* ViewController.swift */; };
+		2A9444E824EBB12B0079D734 /* RedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A9444E724EBB12B0079D734 /* RedViewController.swift */; };
 		2A9444EB24EBB12B0079D734 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A9444E924EBB12B0079D734 /* Main.storyboard */; };
 		2A9444ED24EBB12E0079D734 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A9444EC24EBB12E0079D734 /* Assets.xcassets */; };
 		2A9444F024EBB12E0079D734 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A9444EE24EBB12E0079D734 /* LaunchScreen.storyboard */; };
 		2A9444FB24EBB12E0079D734 /* RainbowTabsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A9444FA24EBB12E0079D734 /* RainbowTabsTests.swift */; };
 		2A94450624EBB12E0079D734 /* RainbowTabsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A94450524EBB12E0079D734 /* RainbowTabsUITests.swift */; };
+		2A94451424EBBBE20079D734 /* OrangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A94451324EBBBE20079D734 /* OrangeViewController.swift */; };
+		2A94451624EBBC730079D734 /* YellowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A94451524EBBC730079D734 /* YellowViewController.swift */; };
+		2A94451824EBBD420079D734 /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A94451724EBBD420079D734 /* GreenViewController.swift */; };
+		2A94451A24EBBD520079D734 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A94451924EBBD520079D734 /* BlueViewController.swift */; };
+		2A94451C24EBBD680079D734 /* PurpleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A94451B24EBBD680079D734 /* PurpleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +43,7 @@
 		2A9444E024EBB12B0079D734 /* RainbowTabs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RainbowTabs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A9444E324EBB12B0079D734 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A9444E524EBB12B0079D734 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		2A9444E724EBB12B0079D734 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2A9444E724EBB12B0079D734 /* RedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedViewController.swift; sourceTree = "<group>"; };
 		2A9444EA24EBB12B0079D734 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2A9444EC24EBB12E0079D734 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A9444EF24EBB12E0079D734 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +54,11 @@
 		2A94450124EBB12E0079D734 /* RainbowTabsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RainbowTabsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A94450524EBB12E0079D734 /* RainbowTabsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainbowTabsUITests.swift; sourceTree = "<group>"; };
 		2A94450724EBB12E0079D734 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A94451324EBBBE20079D734 /* OrangeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrangeViewController.swift; sourceTree = "<group>"; };
+		2A94451524EBBC730079D734 /* YellowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YellowViewController.swift; sourceTree = "<group>"; };
+		2A94451724EBBD420079D734 /* GreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
+		2A94451924EBBD520079D734 /* BlueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
+		2A94451B24EBBD680079D734 /* PurpleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurpleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +111,13 @@
 			children = (
 				2A9444E324EBB12B0079D734 /* AppDelegate.swift */,
 				2A9444E524EBB12B0079D734 /* SceneDelegate.swift */,
-				2A9444E724EBB12B0079D734 /* ViewController.swift */,
+				2A9444E724EBB12B0079D734 /* RedViewController.swift */,
 				2A9444E924EBB12B0079D734 /* Main.storyboard */,
+				2A94451724EBBD420079D734 /* GreenViewController.swift */,
+				2A94451924EBBD520079D734 /* BlueViewController.swift */,
+				2A94451B24EBBD680079D734 /* PurpleViewController.swift */,
+				2A94451524EBBC730079D734 /* YellowViewController.swift */,
+				2A94451324EBBBE20079D734 /* OrangeViewController.swift */,
 				2A9444EC24EBB12E0079D734 /* Assets.xcassets */,
 				2A9444EE24EBB12E0079D734 /* LaunchScreen.storyboard */,
 				2A9444F124EBB12E0079D734 /* Info.plist */,
@@ -259,9 +274,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2A9444E824EBB12B0079D734 /* ViewController.swift in Sources */,
+				2A94451824EBBD420079D734 /* GreenViewController.swift in Sources */,
+				2A94451424EBBBE20079D734 /* OrangeViewController.swift in Sources */,
+				2A9444E824EBB12B0079D734 /* RedViewController.swift in Sources */,
 				2A9444E424EBB12B0079D734 /* AppDelegate.swift in Sources */,
+				2A94451C24EBBD680079D734 /* PurpleViewController.swift in Sources */,
 				2A9444E624EBB12B0079D734 /* SceneDelegate.swift in Sources */,
+				2A94451624EBBC730079D734 /* YellowViewController.swift in Sources */,
+				2A94451A24EBBD520079D734 /* BlueViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
